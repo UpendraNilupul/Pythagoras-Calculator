@@ -21,10 +21,5 @@ A simple web application to calculate one side of a right triangle using the Pyt
 - [`style.css`](style.css): Styles for the calculator
 - [`script.js`](script.js): Calculation logic
 
-## Example
 
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
-## License
-
-MIT
